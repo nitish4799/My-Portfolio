@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.1267a961.css",
+    "main.js": "/my-app/static/js/main.522eeef6.js",
+    "static/media/react.png": "/my-app/static/media/react.289b48c742fbe2da5ed3.png",
+    "static/media/gd.png": "/my-app/static/media/gd.877fa52cff6a8beb35c6.png",
+    "static/media/ui.png": "/my-app/static/media/ui.45a4644c8c9ecd26a4aa.png",
+    "static/media/disney.png": "/my-app/static/media/disney.a72b64486c96c2ad6eee.png",
+    "static/media/news.png": "/my-app/static/media/news.0c1b6b017004cff1100f.png",
+    "static/media/img.jpg": "/my-app/static/media/img.b687d8ca7a814cfaa5eb.jpg",
+    "static/media/get.jpg": "/my-app/static/media/get.153b1c34a7e8c6894fbb.jpg",
+    "static/media/call.jfif": "/my-app/static/media/call.186bbb802b1d84154c8e.jfif",
+    "static/media/mail.png": "/my-app/static/media/mail.f33e9d7389425e7ac652.png",
+    "index.html": "/my-app/index.html",
+    "main.1267a961.css.map": "/my-app/static/css/main.1267a961.css.map",
+    "main.522eeef6.js.map": "/my-app/static/js/main.522eeef6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1267a961.css",
+    "static/js/main.522eeef6.js"
+  ]
+}
