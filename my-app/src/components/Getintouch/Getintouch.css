@@ -1,0 +1,60 @@
+.getimage{
+    height: 900px;
+    margin-left: 80px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+.getdiv{
+    background-color: black;
+    margin-top: 20px;
+    display: flex;
+}
+.gettext{
+    margin-left: 300px;
+    margin-top: 230px;
+     color: white;
+     font-size: 64px;
+     font-weight: 600px;
+}
+.context{
+    color: white;
+    font-weight: 200;
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+.mail{
+    height: 60px;
+    margin-top: 70px;
+    margin-left: 195px;
+    color: white;
+
+}
+.bton{
+    background-color: black;
+    color: white;
+    margin-left: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    position:  absolute;
+    margin-top: 70px;
+}
+.call{
+    height: 60px;
+    margin-top: 0px;
+    margin-left: 387px;
+
+}
+.btn1{
+    background-color: black;
+    color: white;
+    margin-left: 25px;
+    position: absolute;
+    margin-top: 80px;
+    font-weight: bold;
+
+}
+.getdiv{
+    padding-top: 100px;
+}

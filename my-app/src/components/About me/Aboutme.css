@@ -1,0 +1,18 @@
+.photo{
+    height: 750px;
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.aboutme{
+    margin-left: 170px;
+    margin-top: 60px;
+    font-weight: 600px;
+    font-size: medium;
+    text-align: center;
+}
+.bigletters{
+    margin-top: 300px;
+    margin-left: 200px;
+    font-size: 64px;
+    font-weight: bolder;
+}

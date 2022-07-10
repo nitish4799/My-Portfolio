@@ -1,0 +1,13 @@
+.navbar{
+    margin-top: 40px;
+    justify-content: space-around;
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+.navbar1{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    gap: 70px;
+}
